@@ -36,9 +36,9 @@ int menu(){
 ```
 ____
 
-[Ejemplo](https://example.com)
+[MarkDownGuide](https://www.markdownguide.org/cheat-sheet/)
 
-![Foto](https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg)
+![Casa de vista](https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
